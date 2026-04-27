@@ -1,0 +1,15 @@
+{
+    "keep": {
+        "days": true,
+        "amount": 14
+    },
+    "auditLog": "C:\\Users\\svall\\.paperclip\\instances\\default\\projects\\92a7b71d-5aea-4dfb-a937-a01ba0ed0c0e\\05216f2c-6eff-4d53-883d-52294b984b9c\\_default\\logs\\.6cef65c0b8157a97d57f94b151da2040686cb4c5-audit.json",
+    "files": [
+        {
+            "date": 1777270636821,
+            "name": "C:\\Users\\svall\\.paperclip\\instances\\default\\projects\\92a7b71d-5aea-4dfb-a937-a01ba0ed0c0e\\05216f2c-6eff-4d53-883d-52294b984b9c\\_default\\logs\\mcp-puppeteer-2026-04-27.log",
+            "hash": "6a68566e06628c8bdd79c28ac98d6125edc8f0e113225c96b6ac60923d2bba75"
+        }
+    ],
+    "hashType": "sha256"
+}
