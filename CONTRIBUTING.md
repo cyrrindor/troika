@@ -85,3 +85,13 @@ Never edit the database schema directly in production.
 - Run: `npm test`
 
 Write tests for business logic and non-trivial utilities. UI component tests are optional but encouraged for complex interactions.
+
+## Engineering Processes
+
+For sprint cadence, detailed PR review SLAs, deployment workflow, and code ownership rules, see:
+
+- [docs/engineering-processes.md](./docs/engineering-processes.md)
+
+For incident severity levels, response steps, and postmortem process, see:
+
+- [docs/incident-response.md](./docs/incident-response.md)
